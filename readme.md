@@ -2,7 +2,7 @@
 
 Este é um aplicativo Python que gera arquivos SQL com comandos `INSERT` a partir de dados de planilhas Excel (XLS, XLSX) ou CSV.
 
-![Captura de tela do Gerador de Inserts](images/projeto_screenshot.png)
+![Captura de tela do Gerador de Inserts](https://github.com/igor-belo/Gerador-de-Inserts/images/projeto_screenshot.png)
 
 ## Funcionalidades
 
